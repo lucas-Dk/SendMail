@@ -12,7 +12,7 @@ isso estará arrumado na atualização!
 
 abra seu terminal e digite 
 
-git clone aqui vocês usam o link do meu script
+git clone https://github.com/lucas-Dk/SendMail
 
 cd SendMail
 
