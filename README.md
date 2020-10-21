@@ -8,7 +8,7 @@ por estar em iniciação, pode ocorrer algumas falhas mesmo apos ter feito os re
 isso estará arrumado na atualização!
 
 
-# Obeter script
+# Obter script
 
 abra seu terminal e digite 
 
